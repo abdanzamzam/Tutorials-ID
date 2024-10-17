@@ -1,2 +1,2 @@
-# Tutorials-ID
-Tutorial Koding Bahasa Indonesia
+# Tutorial Belajar Koding
+Tutorial Belajar Koding Bahasa Indonesia
