@@ -6,3 +6,4 @@ Discover a curated selection of insightful coding tips and practical tutorials t
 2. Livewire vs Inertia.js + React.js: Which Should You Choose?
 3. How to Upload Files to AWS S3 with Laravel
 4. Setting Up Vite for React with TypeScript and Tailwind CSS
+5. Setting Up Laravel with Authentication, Authorization, CRUD API, and Docker Deployment
